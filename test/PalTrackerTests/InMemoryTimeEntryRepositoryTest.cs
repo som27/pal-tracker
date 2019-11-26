@@ -3,6 +3,7 @@ using System.Linq;
 using PalTracker;
 using Xunit;
 
+
 namespace PalTrackerTests
 {
     public class InMemoryTimeEntryRepositoryTest
