@@ -6,3 +6,4 @@ applications:
   - route: pal-tracker-prod-somyaa.cfapps.io
   env:
     WELCOME_MESSAGE: Hello from the production environment
+  
