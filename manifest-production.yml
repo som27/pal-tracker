@@ -1,6 +1,6 @@
 ---
 applications:
-- name: pal-tracker-production
+- name: production-app
   path: src/PalTracker/bin/Release/netcoreapp2.2/publish/
   routes:
   - route: pal-tracker-prod-somyaa.cfapps.io
